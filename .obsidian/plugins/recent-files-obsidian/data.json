@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "06메모리 관리",
+      "path": "Module3 Operating System/Installing an Operating System/06메모리 관리.md"
+    },
+    {
+      "basename": "Screenshot 2024-06-23 at 5.59.57 PM",
+      "path": "Module3 Operating System/Installing an Operating System/assets/Screenshot 2024-06-23 at 5.59.57 PM.png"
+    },
+    {
       "basename": "05프로세스 관리",
       "path": "Module3 Operating System/Installing an Operating System/05프로세스 관리.md"
     },
@@ -31,14 +39,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "Screenshot 2024-06-23 at 5.14.44 PM",
-      "path": "Module3 Operating System/Installing an Operating System/assets/Screenshot 2024-06-23 at 5.14.44 PM.png"
-    },
-    {
-      "basename": "Screenshot 2024-06-23 at 2.10.19 PM",
-      "path": "Module2 Hardware/Starting It Up/assets/Screenshot 2024-06-23 at 2.10.19 PM.png"
     }
   ],
   "omittedPaths": [
