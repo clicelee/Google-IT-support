@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "context",
-      "path": "2CSAP/context.md"
+      "basename": "04스토리지",
+      "path": "모듈2 하드웨어/04스토리지.md"
     },
     {
-      "basename": "Pasted image 20240422195020",
-      "path": "2CSAP/z.image/Pasted image 20240422195020.png"
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "BIOS",
+      "path": "BIOS.md"
     },
     {
       "basename": "Thread",
@@ -35,10 +39,6 @@
     {
       "basename": "12강 입출력",
       "path": "2OBB/12강 입출력.md"
-    },
-    {
-      "basename": "11강 template",
-      "path": "2OBB/11강 template.md"
     }
   ],
   "omittedPaths": [

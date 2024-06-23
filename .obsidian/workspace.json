@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "55b796f63791f092",
+    "id": "a0aaa7b6e272e56e",
     "type": "split",
     "children": [
       {
-        "id": "723f3fdbdffb9ea5",
+        "id": "81f7c7183b20ac17",
         "type": "tabs",
         "children": [
           {
-            "id": "3e0eb5e12cd067bc",
+            "id": "f754cada54231388",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2CSAP/context.md",
+                "file": "모듈2 하드웨어/04스토리지.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,16 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e4aeeaf0887a468d",
+    "id": "fb3b2a08f35076a7",
     "type": "split",
     "children": [
       {
-        "id": "b137c4b99994f1ad",
+        "id": "7d9f1cb7e4ee03e1",
         "type": "tabs",
-        "dimension": 75.30864197530865,
         "children": [
           {
-            "id": "1d29dd192873ac38",
+            "id": "1080bc73bbd5529e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,37 +43,30 @@
             }
           },
           {
-            "id": "ef1f31449c12c420",
+            "id": "8755688875269298",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "omit",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "1a96c7060207b14e",
+            "id": "000cea4b4aff793e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
-          }
-        ]
-      },
-      {
-        "id": "f87809e612b1bfcc",
-        "type": "tabs",
-        "dimension": 24.691358024691358,
-        "children": [
+          },
           {
-            "id": "f5ee80d649fdb272",
+            "id": "e4d23d5b9e768108",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -85,58 +77,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "867409685d3d2006",
+    "id": "cd54a570102daad4",
     "type": "split",
     "children": [
       {
-        "id": "e79dafd3ad8eddbc",
+        "id": "69852770f08919b3",
         "type": "tabs",
-        "dimension": 71.72839506172839,
         "children": [
           {
-            "id": "8df10323107df1af",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-ai",
-              "state": {}
-            }
-          },
-          {
-            "id": "00a4ca8fdda541a2",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "2CSAP/context.md"
-              }
-            }
-          },
-          {
-            "id": "0ea12ad800aacd0b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "dd99043f5a8906ff",
-        "type": "tabs",
-        "dimension": 28.271604938271604,
-        "children": [
-          {
-            "id": "fa416ce5c4c8d160",
+            "id": "2292c10e014bc8de",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2CSAP/context.md",
+                "file": "모듈2 하드웨어/04스토리지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,105 +105,87 @@
             }
           },
           {
-            "id": "c75f3647d02f6fdb",
+            "id": "86c07fe0fc013928",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2CSAP/context.md",
+                "file": "모듈2 하드웨어/04스토리지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "4bbf88d42e6ed337",
+            "id": "7095e058e6e07935",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "eb9000fc94f19b2f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "모듈2 하드웨어/04스토리지.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 384.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
-      "templater-obsidian:Templater": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "obsidian-custom-frames:Open Ticktick": false,
+      "obsidian-kanban:새 보드 만들기": false,
       "obsidian-custom-frames:Open AI": false,
-      "graph:그래프 뷰 열기": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-custom-frames:Open Ticktick": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3e0eb5e12cd067bc",
+  "active": "f754cada54231388",
   "lastOpenFiles": [
-    "2CSAP/z.image/Pasted image 20240422195020.png",
-    "2CSAP/context.md",
-    "2CSAP/Thread.md",
-    "2CSAP/Memory Area.md",
-    "2OBB/README.md",
-    "2OBB/14강 STL 알고리즘.md",
-    "2OBB/13강 오답노트.md",
-    "2OBB/13강 STL컨테이너.md",
-    "2OBB/12강 입출력.md",
-    "2OBB/11강 template.md",
-    "2OBB/10강 예외처리와 형변환.md",
-    "2OBB/09강 프렌드와 연산자 중복.md",
-    "2OBB/08강 오답노트.md",
-    "2OBB/08강 다형성.md",
-    "2OBB/07강 상속.md",
-    "2OBB/05강 클래스의 생성자와 소멸자.md",
-    "2OBB/03강 제어문 함수 배열 포인터.md",
-    "2Linux/시스템 프로그래밍 임민규 기말.md",
-    "2Linux/내가 화나서 정리하는 리눅스 c 파일 만들고 컴파일 하기.md",
-    "2Linux/Linux tutorial 정리본.md",
-    "2Linux/CH14 9~18오답노트.md",
-    "2Linux/CH14 9~18.md",
-    "2Linux/CH14 1~8오답노트.md",
-    "2Linux/CH14 1~8.md",
-    "2Linux/CH13 PP24~40오답노트.md",
-    "2Linux/CH13 PP24~40 스레드 동기화 메커니즘.md",
-    "무제 파일.canvas",
-    "Excalidraw",
-    "Screenshot 2024-06-06 at 10.57.41 PM.png",
-    "Assets/Screenshot 2024-05-28 at 10.28.47 PM.png",
-    "Assets/Screenshot 2024-05-28 at 10.21.59 PM.png",
-    "Assets/Screenshot 2024-05-28 at 10.20.57 PM.png",
-    "3기술사회와 패러다임/퀴즈_0508.png",
-    "Screenshot 2024-05-08 at 1.41.16 PM.png",
-    "Screenshot 2024-05-08 at 1.35.22 PM.png",
-    "Screenshot 2024-05-08 at 1.33.21 PM.png",
-    "2자료구조, 알고리즘/자료구조 수업/2주차 자료구조 필기.pdf",
-    "2자료구조, 알고리즘/자료구조 수업/1주차 자료구조 필기.pdf",
-    "2Fontend/CircleKUIT/React/Assets/Screenshot_2024-04-28_at_4.40.42_PM.png",
-    "2Cpp/화양동 5.m4a",
-    "2자료구조, 알고리즘/자료구조 수업/Screenshot 2024-04-24 at 11.07.55 PM.png",
-    "2Fontend/CircleKUIT/React/Assets",
-    "2Fontend/CircleKUIT/React",
-    "2자료구조, 알고리즘/자료구조 수업/아마 족보/자료구조 기말고사.pdf",
-    "2자료구조, 알고리즘/자료구조 수업/아마 족보/기말고사 족보(다른 수업).pdf",
-    "2자료구조, 알고리즘/자료구조 수업/아마 족보/2020 자료구조 기말고사.pdf",
-    "2CSAP/z.image",
-    "0clice/Study/24-1학기.canvas",
-    "9메모장/Untitled.canvas",
-    "무제 파일 1.canvas",
-    "1Happy/무제 파일.canvas",
-    "0/무제 파일.canvas",
-    "2Weekend(AI,CS,Python,ROS)/CS/canvas.canvas"
+    "Screenshot 2024-06-23 at 12.57.39 PM.png",
+    "README.md",
+    "모듈2 하드웨어/04스토리지.md",
+    "모듈2 하드웨어/assets/Screenshot 2024-06-23 at 12.55.11 PM.png",
+    "모듈2 하드웨어/assets/Screenshot 2024-06-23 at 12.54.05 PM.png",
+    "BIOS.md",
+    "무제 파일.md",
+    "무제 폴더",
+    "모듈2 하드웨어/assets/Screenshot 2024-06-23 at 11.45.32 AM.png",
+    "모듈2 하드웨어/assets/Screenshot 2024-06-23 at 12.21.20 PM.png",
+    "모듈2 하드웨어/assets/Screenshot 2024-06-23 at 12.19.09 PM.png",
+    "모듈2 하드웨어/assets/Screenshot 2024-06-23 at 12.18.49 PM.png",
+    "모듈2 하드웨어/assets/Screenshot 2024-06-23 at 11.27.44 AM (2).png",
+    "모듈2 하드웨어/Screenshot 2024-06-23 at 12.21.20 PM.png",
+    "모듈2 하드웨어/Screenshot 2024-06-23 at 12.19.09 PM.png",
+    "모듈2 하드웨어/Screenshot 2024-06-23 at 12.18.49 PM.png",
+    "모듈2 하드웨어/01CPU.md",
+    "모듈2 하드웨어/02RAM.md",
+    "모듈2 하드웨어/03마더보드.md",
+    "전원공급 장치.md",
+    "휴대기기.md",
+    "배터리 및 충전 시스템.md",
+    "주변 기기.md",
+    "무제 파일 1.md",
+    "휴대기기 수리.md",
+    "모듈2 하드웨어/assets",
+    "모듈2 하드웨어"
   ]
 }
