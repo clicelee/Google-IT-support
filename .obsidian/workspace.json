@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module2-2 Hardware/Components/08주변 기기 Peripherals.md",
+                "file": "Module2 Hardware/Components/08주변 기기 Peripherals.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module2-2 Hardware/Starting It Up/01BIOS.md",
+                "file": "Module2 Hardware/Starting It Up/01BIOS.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module2-2 Hardware/Starting It Up/02putting all together-조립하기.md",
+                "file": "Module2 Hardware/Starting It Up/02putting all together-조립하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module2-2 Hardware/Starting It Up/03휴대기기 수리.md",
+                "file": "Module2 Hardware/Starting It Up/02putting all together-조립하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module2-2 Hardware/Starting It Up/03휴대기기 수리.md",
+                "file": "Module2 Hardware/Starting It Up/02putting all together-조립하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module2-2 Hardware/Starting It Up/03휴대기기 수리.md",
+                "file": "Module2 Hardware/Starting It Up/02putting all together-조립하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module2-2 Hardware/Starting It Up/03휴대기기 수리.md"
+                "file": "Module2 Hardware/Starting It Up/02putting all together-조립하기.md"
               }
             }
           }
@@ -195,39 +195,42 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "63b90a4e703ae50d",
+  "active": "1080bc73bbd5529e",
   "lastOpenFiles": [
-    "Module2-2 Hardware/Starting It Up/02putting all together-조립하기.md",
+    "Module3 Operating System/Installing an Operating System/assets",
+    "Module3 Operating System/Installing an Operating System",
+    "Module3 Operating System/What is an Operating System",
+    "Module3 Operating System",
+    "Module2 Hardware/Starting It Up/01BIOS.md",
+    "Module2 Hardware/Starting It Up/02putting all together-조립하기.md",
+    "Module2 Hardware/Starting It Up/assets/Screenshot 2024-06-23 at 2.10.19 PM.png",
+    "Module2 Hardware/Starting It Up/assets/Screenshot 2024-06-23 at 2.15.42 PM.png",
+    "Module2 Hardware/Starting It Up/assets/Screenshot 2024-06-23 at 2.06.24 PM.png",
+    "Module2 Hardware/Starting It Up/assets/Screenshot 2024-06-23 at 2.07.43 PM.png",
+    "Module2 Hardware/Starting It Up/assets/Screenshot 2024-06-23 at 2.13.38 PM.png",
+    "Module2 Hardware/Starting It Up/assets/Screenshot 2024-06-23 at 2.08.28 PM.png",
+    "Module2 Hardware/Starting It Up/03휴대기기 수리.md",
     "README.md",
-    "Module2-2 Hardware/Starting It Up/03휴대기기 수리.md",
-    "Module2-2 Hardware/Starting It Up/assets/Screenshot 2024-06-23 at 2.19.09 PM.png",
-    "Module2-2 Hardware/Starting It Up/assets/Screenshot 2024-06-23 at 2.15.42 PM.png",
-    "Module2-2 Hardware/Starting It Up/assets/Screenshot 2024-06-23 at 2.13.38 PM.png",
-    "Module2-2 Hardware/Starting It Up/assets/Screenshot 2024-06-23 at 2.10.19 PM.png",
-    "Module2-2 Hardware/Starting It Up/assets/Screenshot 2024-06-23 at 2.08.45 PM.png",
-    "Module2-2 Hardware/Starting It Up/assets/Screenshot 2024-06-23 at 2.08.28 PM.png",
-    "Module2-2 Hardware/Starting It Up/assets/Screenshot 2024-06-23 at 2.07.43 PM.png",
-    "Module2-2 Hardware/Starting It Up/assets/Screenshot 2024-06-23 at 2.07.08 PM.png",
-    "Module2-2 Hardware/Starting It Up/assets/Screenshot 2024-06-23 at 2.06.24 PM.png",
-    "Module2-2 Hardware/Starting It Up/assets/Screenshot 2024-06-23 at 2.05.52 PM.png",
-    "Module2-2 Hardware/Starting It Up/01BIOS.md",
-    "무제 폴더",
+    "Module2 Hardware/Starting It Up/assets/Screenshot 2024-06-23 at 2.19.09 PM.png",
+    "Module2 Hardware/Starting It Up/assets/Screenshot 2024-06-23 at 2.08.45 PM.png",
+    "Module2 Hardware/Starting It Up/assets/Screenshot 2024-06-23 at 2.07.08 PM.png",
+    "Module2 Hardware/Starting It Up/assets/Screenshot 2024-06-23 at 2.05.52 PM.png",
     "02종합-모두 하나로모으기",
-    "Module2-2 Hardware/Starting It Up/assets",
-    "Module2-2 Hardware/Starting It Up",
-    "Module2-2 Hardware",
-    "Module2-2 Hardware/Components/08주변 기기 Peripherals.md",
+    "Module2 Hardware/Starting It Up/assets",
+    "Module2 Hardware/Starting It Up",
+    "Module2 Hardware",
+    "Module2 Hardware/Components/08주변 기기 Peripherals.md",
     "모듈2 하드웨어/휴대기기 수리.md",
-    "Module2-2 Hardware/Components/07배터리 및 충전 시스템.md",
-    "Module2-2 Hardware/Components/06휴대기기.md",
-    "Module2-2 Hardware/Components/04스토리지.md",
-    "Module2-2 Hardware/Components/03마더보드.md",
-    "Module2-2 Hardware/Components/02RAM.md",
-    "Module2-2 Hardware/Components/01CPU.md",
-    "Module2-2 Hardware/Components/05전원공급 장치.md",
+    "Module2 Hardware/Components/07배터리 및 충전 시스템.md",
+    "Module2 Hardware/Components/06휴대기기.md",
+    "Module2 Hardware/Components/04스토리지.md",
+    "Module2 Hardware/Components/03마더보드.md",
+    "Module2 Hardware/Components/02RAM.md",
+    "Module2 Hardware/Components/01CPU.md",
+    "Module2 Hardware/Components/05전원공급 장치.md",
     "BIOS.md",
     "무제 파일 1.md",
-    "Module2-2 Hardware/Components/assets",
-    "Module2-2 Hardware/Components"
+    "Module2 Hardware/Components/assets",
+    "Module2 Hardware/Components"
   ]
 }

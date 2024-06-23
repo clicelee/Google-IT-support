@@ -1,44 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "03휴대기기 수리",
-      "path": "Module2-2 Hardware/Starting It Up/03휴대기기 수리.md"
+      "basename": "02putting all together-조립하기",
+      "path": "Module2 Hardware/Starting It Up/02putting all together-조립하기.md"
     },
     {
-      "basename": "02putting all together-조립하기",
-      "path": "Module2-2 Hardware/Starting It Up/02putting all together-조립하기.md"
+      "basename": "01BIOS",
+      "path": "Module2 Hardware/Starting It Up/01BIOS.md"
+    },
+    {
+      "basename": "Screenshot 2024-06-23 at 2.10.19 PM",
+      "path": "Module2 Hardware/Starting It Up/assets/Screenshot 2024-06-23 at 2.10.19 PM.png"
+    },
+    {
+      "basename": "Screenshot 2024-06-23 at 2.15.42 PM",
+      "path": "Module2 Hardware/Starting It Up/assets/Screenshot 2024-06-23 at 2.15.42 PM.png"
+    },
+    {
+      "basename": "Screenshot 2024-06-23 at 2.06.24 PM",
+      "path": "Module2 Hardware/Starting It Up/assets/Screenshot 2024-06-23 at 2.06.24 PM.png"
+    },
+    {
+      "basename": "Screenshot 2024-06-23 at 2.07.43 PM",
+      "path": "Module2 Hardware/Starting It Up/assets/Screenshot 2024-06-23 at 2.07.43 PM.png"
+    },
+    {
+      "basename": "Screenshot 2024-06-23 at 2.13.38 PM",
+      "path": "Module2 Hardware/Starting It Up/assets/Screenshot 2024-06-23 at 2.13.38 PM.png"
+    },
+    {
+      "basename": "Screenshot 2024-06-23 at 2.08.28 PM",
+      "path": "Module2 Hardware/Starting It Up/assets/Screenshot 2024-06-23 at 2.08.28 PM.png"
+    },
+    {
+      "basename": "03휴대기기 수리",
+      "path": "Module2 Hardware/Starting It Up/03휴대기기 수리.md"
     },
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "01BIOS",
-      "path": "Module2-2 Hardware/Starting It Up/01BIOS.md"
-    },
-    {
-      "basename": "08주변 기기 Peripherals",
-      "path": "Module2-2 Hardware/Components/08주변 기기 Peripherals.md"
-    },
-    {
-      "basename": "07배터리 및 충전 시스템",
-      "path": "Module2-2 Hardware/Components/07배터리 및 충전 시스템.md"
-    },
-    {
-      "basename": "06휴대기기",
-      "path": "Module2-2 Hardware/Components/06휴대기기.md"
-    },
-    {
-      "basename": "04스토리지",
-      "path": "Module2-2 Hardware/Components/04스토리지.md"
-    },
-    {
-      "basename": "03마더보드",
-      "path": "Module2-2 Hardware/Components/03마더보드.md"
-    },
-    {
-      "basename": "02RAM",
-      "path": "Module2-2 Hardware/Components/02RAM.md"
     }
   ],
   "omittedPaths": [
