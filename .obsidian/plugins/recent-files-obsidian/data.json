@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "03운영체제의 구성요소",
+      "path": "Module3 Operating System/Installing an Operating System/03운영체제의 구성요소.md"
+    },
+    {
+      "basename": "02putting all together-조립하기",
+      "path": "Module2 Hardware/Starting It Up/02putting all together-조립하기.md"
+    },
+    {
       "basename": "02PuTTY",
       "path": "Module3 Operating System/Installing an Operating System/02PuTTY.md"
     },
@@ -21,10 +29,6 @@
       "path": "Module3 Operating System/Installing an Operating System/assets/Screenshot 2024-06-23 at 5.14.44 PM.png"
     },
     {
-      "basename": "02putting all together-조립하기",
-      "path": "Module2 Hardware/Starting It Up/02putting all together-조립하기.md"
-    },
-    {
       "basename": "Screenshot 2024-06-23 at 2.10.19 PM",
       "path": "Module2 Hardware/Starting It Up/assets/Screenshot 2024-06-23 at 2.10.19 PM.png"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "Screenshot 2024-06-23 at 2.06.24 PM",
       "path": "Module2 Hardware/Starting It Up/assets/Screenshot 2024-06-23 at 2.06.24 PM.png"
-    },
-    {
-      "basename": "Screenshot 2024-06-23 at 2.07.43 PM",
-      "path": "Module2 Hardware/Starting It Up/assets/Screenshot 2024-06-23 at 2.07.43 PM.png"
     }
   ],
   "omittedPaths": [
