@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "모듈2 하드웨어/08주변 기기 Peripherals.md",
+                "file": "Module2-2 Hardware/Components/08주변 기기 Peripherals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e886638c9e8d1564",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Module2-2 Hardware/Starting It Up/01BIOS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "41d5d4d0b0020564",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Module2-2 Hardware/Starting It Up/02putting all together-조립하기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63b90a4e703ae50d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Module2-2 Hardware/Starting It Up/03휴대기기 수리.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -93,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "모듈2 하드웨어/08주변 기기 Peripherals.md",
+                "file": "Module2-2 Hardware/Starting It Up/03휴대기기 수리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "모듈2 하드웨어/08주변 기기 Peripherals.md",
+                "file": "Module2-2 Hardware/Starting It Up/03휴대기기 수리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "모듈2 하드웨어/08주변 기기 Peripherals.md"
+                "file": "Module2-2 Hardware/Starting It Up/03휴대기기 수리.md"
               }
             }
           }
@@ -158,33 +195,39 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f754cada54231388",
+  "active": "63b90a4e703ae50d",
   "lastOpenFiles": [
-    "모듈2 하드웨어/휴대기기 수리.md",
-    "모듈2 하드웨어/08주변 기기 Peripherals.md",
-    "모듈2 하드웨어/assets/Screenshot 2024-06-23 at 1.45.01 PM.png",
-    "모듈2 하드웨어/assets/Screenshot 2024-06-23 at 1.42.24 PM.png",
-    "모듈2 하드웨어/07배터리 및 충전 시스템.md",
-    "모듈2 하드웨어/06휴대기기.md",
-    "모듈2 하드웨어/04스토리지.md",
-    "모듈2 하드웨어/03마더보드.md",
-    "모듈2 하드웨어/02RAM.md",
-    "모듈2 하드웨어/01CPU.md",
-    "모듈2 하드웨어/05전원공급 장치.md",
-    "모듈2 하드웨어/assets/Screenshot 2024-06-23 at 1.35.03 PM.png",
-    "모듈2 하드웨어/assets/Screenshot 2024-06-23 at 1.30.52 PM.png",
-    "모듈2 하드웨어/assets/Screenshot 2024-06-23 at 1.14.54 PM.png",
-    "모듈2 하드웨어/assets/Screenshot 2024-06-23 at 1.13.12 PM.png",
-    "모듈2 하드웨어/assets/Screenshot 2024-06-23 at 1.12.44 PM.png",
-    "BIOS.md",
-    "모듈2 하드웨어/assets/Screenshot 2024-06-23 at 12.57.39 PM.png",
+    "Module2-2 Hardware/Starting It Up/02putting all together-조립하기.md",
     "README.md",
-    "모듈2 하드웨어/assets/Screenshot 2024-06-23 at 12.55.11 PM.png",
-    "모듈2 하드웨어/assets/Screenshot 2024-06-23 at 12.54.05 PM.png",
-    "무제 파일.md",
+    "Module2-2 Hardware/Starting It Up/03휴대기기 수리.md",
+    "Module2-2 Hardware/Starting It Up/assets/Screenshot 2024-06-23 at 2.19.09 PM.png",
+    "Module2-2 Hardware/Starting It Up/assets/Screenshot 2024-06-23 at 2.15.42 PM.png",
+    "Module2-2 Hardware/Starting It Up/assets/Screenshot 2024-06-23 at 2.13.38 PM.png",
+    "Module2-2 Hardware/Starting It Up/assets/Screenshot 2024-06-23 at 2.10.19 PM.png",
+    "Module2-2 Hardware/Starting It Up/assets/Screenshot 2024-06-23 at 2.08.45 PM.png",
+    "Module2-2 Hardware/Starting It Up/assets/Screenshot 2024-06-23 at 2.08.28 PM.png",
+    "Module2-2 Hardware/Starting It Up/assets/Screenshot 2024-06-23 at 2.07.43 PM.png",
+    "Module2-2 Hardware/Starting It Up/assets/Screenshot 2024-06-23 at 2.07.08 PM.png",
+    "Module2-2 Hardware/Starting It Up/assets/Screenshot 2024-06-23 at 2.06.24 PM.png",
+    "Module2-2 Hardware/Starting It Up/assets/Screenshot 2024-06-23 at 2.05.52 PM.png",
+    "Module2-2 Hardware/Starting It Up/01BIOS.md",
     "무제 폴더",
+    "02종합-모두 하나로모으기",
+    "Module2-2 Hardware/Starting It Up/assets",
+    "Module2-2 Hardware/Starting It Up",
+    "Module2-2 Hardware",
+    "Module2-2 Hardware/Components/08주변 기기 Peripherals.md",
+    "모듈2 하드웨어/휴대기기 수리.md",
+    "Module2-2 Hardware/Components/07배터리 및 충전 시스템.md",
+    "Module2-2 Hardware/Components/06휴대기기.md",
+    "Module2-2 Hardware/Components/04스토리지.md",
+    "Module2-2 Hardware/Components/03마더보드.md",
+    "Module2-2 Hardware/Components/02RAM.md",
+    "Module2-2 Hardware/Components/01CPU.md",
+    "Module2-2 Hardware/Components/05전원공급 장치.md",
+    "BIOS.md",
     "무제 파일 1.md",
-    "모듈2 하드웨어/assets",
-    "모듈2 하드웨어"
+    "Module2-2 Hardware/Components/assets",
+    "Module2-2 Hardware/Components"
   ]
 }

@@ -1,40 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "08주변 기기 Peripherals",
-      "path": "모듈2 하드웨어/08주변 기기 Peripherals.md"
+      "basename": "03휴대기기 수리",
+      "path": "Module2-2 Hardware/Starting It Up/03휴대기기 수리.md"
     },
     {
-      "basename": "07배터리 및 충전 시스템",
-      "path": "모듈2 하드웨어/07배터리 및 충전 시스템.md"
-    },
-    {
-      "basename": "06휴대기기",
-      "path": "모듈2 하드웨어/06휴대기기.md"
-    },
-    {
-      "basename": "04스토리지",
-      "path": "모듈2 하드웨어/04스토리지.md"
-    },
-    {
-      "basename": "03마더보드",
-      "path": "모듈2 하드웨어/03마더보드.md"
-    },
-    {
-      "basename": "02RAM",
-      "path": "모듈2 하드웨어/02RAM.md"
-    },
-    {
-      "basename": "01CPU",
-      "path": "모듈2 하드웨어/01CPU.md"
-    },
-    {
-      "basename": "05전원공급 장치",
-      "path": "모듈2 하드웨어/05전원공급 장치.md"
+      "basename": "02putting all together-조립하기",
+      "path": "Module2-2 Hardware/Starting It Up/02putting all together-조립하기.md"
     },
     {
       "basename": "README",
       "path": "README.md"
+    },
+    {
+      "basename": "01BIOS",
+      "path": "Module2-2 Hardware/Starting It Up/01BIOS.md"
+    },
+    {
+      "basename": "08주변 기기 Peripherals",
+      "path": "Module2-2 Hardware/Components/08주변 기기 Peripherals.md"
+    },
+    {
+      "basename": "07배터리 및 충전 시스템",
+      "path": "Module2-2 Hardware/Components/07배터리 및 충전 시스템.md"
+    },
+    {
+      "basename": "06휴대기기",
+      "path": "Module2-2 Hardware/Components/06휴대기기.md"
+    },
+    {
+      "basename": "04스토리지",
+      "path": "Module2-2 Hardware/Components/04스토리지.md"
+    },
+    {
+      "basename": "03마더보드",
+      "path": "Module2-2 Hardware/Components/03마더보드.md"
+    },
+    {
+      "basename": "02RAM",
+      "path": "Module2-2 Hardware/Components/02RAM.md"
     }
   ],
   "omittedPaths": [
