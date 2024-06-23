@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "10부팅 프로세스",
+      "path": "Module3 Operating System/Installing an Operating System/10부팅 프로세스.md"
+    },
+    {
+      "basename": "11모바일 운영체제",
+      "path": "Module3 Operating System/Installing an Operating System/11모바일 운영체제.md"
+    },
+    {
+      "basename": "09로그",
+      "path": "Module3 Operating System/Installing an Operating System/09로그.md"
+    },
+    {
+      "basename": "08사용자 공간 UserSpace",
+      "path": "Module3 Operating System/Installing an Operating System/08사용자 공간 UserSpace.md"
+    },
+    {
+      "basename": "07입출력 관리",
+      "path": "Module3 Operating System/Installing an Operating System/07입출력 관리.md"
+    },
+    {
       "basename": "06메모리 관리",
       "path": "Module3 Operating System/Installing an Operating System/06메모리 관리.md"
     },
@@ -19,26 +39,6 @@
     {
       "basename": "03운영체제의 구성요소",
       "path": "Module3 Operating System/Installing an Operating System/03운영체제의 구성요소.md"
-    },
-    {
-      "basename": "02putting all together-조립하기",
-      "path": "Module2 Hardware/Starting It Up/02putting all together-조립하기.md"
-    },
-    {
-      "basename": "02PuTTY",
-      "path": "Module3 Operating System/Installing an Operating System/02PuTTY.md"
-    },
-    {
-      "basename": "01BIOS",
-      "path": "Module2 Hardware/Starting It Up/01BIOS.md"
-    },
-    {
-      "basename": "01원격연결 및 SSH",
-      "path": "Module3 Operating System/Installing an Operating System/01원격연결 및 SSH.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     }
   ],
   "omittedPaths": [
