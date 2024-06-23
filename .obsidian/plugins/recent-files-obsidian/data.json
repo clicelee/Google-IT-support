@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "05프로세스 관리",
+      "path": "Module3 Operating System/Installing an Operating System/05프로세스 관리.md"
+    },
+    {
+      "basename": "04파일 및 파일 시스템",
+      "path": "Module3 Operating System/Installing an Operating System/04파일 및 파일 시스템.md"
+    },
+    {
       "basename": "03운영체제의 구성요소",
       "path": "Module3 Operating System/Installing an Operating System/03운영체제의 구성요소.md"
     },
@@ -31,14 +39,6 @@
     {
       "basename": "Screenshot 2024-06-23 at 2.10.19 PM",
       "path": "Module2 Hardware/Starting It Up/assets/Screenshot 2024-06-23 at 2.10.19 PM.png"
-    },
-    {
-      "basename": "Screenshot 2024-06-23 at 2.15.42 PM",
-      "path": "Module2 Hardware/Starting It Up/assets/Screenshot 2024-06-23 at 2.15.42 PM.png"
-    },
-    {
-      "basename": "Screenshot 2024-06-23 at 2.06.24 PM",
-      "path": "Module2 Hardware/Starting It Up/assets/Screenshot 2024-06-23 at 2.06.24 PM.png"
     }
   ],
   "omittedPaths": [
