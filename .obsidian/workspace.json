@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "모듈2 하드웨어/04스토리지.md",
+                "file": "모듈2 하드웨어/08주변 기기 Peripherals.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "모듈2 하드웨어/04스토리지.md",
+                "file": "모듈2 하드웨어/08주변 기기 Peripherals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "모듈2 하드웨어/04스토리지.md",
+                "file": "모듈2 하드웨어/08주변 기기 Peripherals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "모듈2 하드웨어/04스토리지.md"
+                "file": "모듈2 하드웨어/08주변 기기 Peripherals.md"
               }
             }
           }
@@ -160,31 +160,30 @@
   },
   "active": "f754cada54231388",
   "lastOpenFiles": [
-    "Screenshot 2024-06-23 at 12.57.39 PM.png",
-    "README.md",
+    "모듈2 하드웨어/휴대기기 수리.md",
+    "모듈2 하드웨어/08주변 기기 Peripherals.md",
+    "모듈2 하드웨어/assets/Screenshot 2024-06-23 at 1.45.01 PM.png",
+    "모듈2 하드웨어/assets/Screenshot 2024-06-23 at 1.42.24 PM.png",
+    "모듈2 하드웨어/07배터리 및 충전 시스템.md",
+    "모듈2 하드웨어/06휴대기기.md",
     "모듈2 하드웨어/04스토리지.md",
+    "모듈2 하드웨어/03마더보드.md",
+    "모듈2 하드웨어/02RAM.md",
+    "모듈2 하드웨어/01CPU.md",
+    "모듈2 하드웨어/05전원공급 장치.md",
+    "모듈2 하드웨어/assets/Screenshot 2024-06-23 at 1.35.03 PM.png",
+    "모듈2 하드웨어/assets/Screenshot 2024-06-23 at 1.30.52 PM.png",
+    "모듈2 하드웨어/assets/Screenshot 2024-06-23 at 1.14.54 PM.png",
+    "모듈2 하드웨어/assets/Screenshot 2024-06-23 at 1.13.12 PM.png",
+    "모듈2 하드웨어/assets/Screenshot 2024-06-23 at 1.12.44 PM.png",
+    "BIOS.md",
+    "모듈2 하드웨어/assets/Screenshot 2024-06-23 at 12.57.39 PM.png",
+    "README.md",
     "모듈2 하드웨어/assets/Screenshot 2024-06-23 at 12.55.11 PM.png",
     "모듈2 하드웨어/assets/Screenshot 2024-06-23 at 12.54.05 PM.png",
-    "BIOS.md",
     "무제 파일.md",
     "무제 폴더",
-    "모듈2 하드웨어/assets/Screenshot 2024-06-23 at 11.45.32 AM.png",
-    "모듈2 하드웨어/assets/Screenshot 2024-06-23 at 12.21.20 PM.png",
-    "모듈2 하드웨어/assets/Screenshot 2024-06-23 at 12.19.09 PM.png",
-    "모듈2 하드웨어/assets/Screenshot 2024-06-23 at 12.18.49 PM.png",
-    "모듈2 하드웨어/assets/Screenshot 2024-06-23 at 11.27.44 AM (2).png",
-    "모듈2 하드웨어/Screenshot 2024-06-23 at 12.21.20 PM.png",
-    "모듈2 하드웨어/Screenshot 2024-06-23 at 12.19.09 PM.png",
-    "모듈2 하드웨어/Screenshot 2024-06-23 at 12.18.49 PM.png",
-    "모듈2 하드웨어/01CPU.md",
-    "모듈2 하드웨어/02RAM.md",
-    "모듈2 하드웨어/03마더보드.md",
-    "전원공급 장치.md",
-    "휴대기기.md",
-    "배터리 및 충전 시스템.md",
-    "주변 기기.md",
     "무제 파일 1.md",
-    "휴대기기 수리.md",
     "모듈2 하드웨어/assets",
     "모듈2 하드웨어"
   ]

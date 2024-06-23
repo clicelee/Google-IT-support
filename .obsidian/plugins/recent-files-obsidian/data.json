@@ -1,44 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "08주변 기기 Peripherals",
+      "path": "모듈2 하드웨어/08주변 기기 Peripherals.md"
+    },
+    {
+      "basename": "07배터리 및 충전 시스템",
+      "path": "모듈2 하드웨어/07배터리 및 충전 시스템.md"
+    },
+    {
+      "basename": "06휴대기기",
+      "path": "모듈2 하드웨어/06휴대기기.md"
+    },
+    {
       "basename": "04스토리지",
       "path": "모듈2 하드웨어/04스토리지.md"
     },
     {
+      "basename": "03마더보드",
+      "path": "모듈2 하드웨어/03마더보드.md"
+    },
+    {
+      "basename": "02RAM",
+      "path": "모듈2 하드웨어/02RAM.md"
+    },
+    {
+      "basename": "01CPU",
+      "path": "모듈2 하드웨어/01CPU.md"
+    },
+    {
+      "basename": "05전원공급 장치",
+      "path": "모듈2 하드웨어/05전원공급 장치.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "BIOS",
-      "path": "BIOS.md"
-    },
-    {
-      "basename": "Thread",
-      "path": "2CSAP/Thread.md"
-    },
-    {
-      "basename": "Memory Area",
-      "path": "2CSAP/Memory Area.md"
-    },
-    {
-      "basename": "README",
-      "path": "2OBB/README.md"
-    },
-    {
-      "basename": "14강 STL 알고리즘",
-      "path": "2OBB/14강 STL 알고리즘.md"
-    },
-    {
-      "basename": "13강 오답노트",
-      "path": "2OBB/13강 오답노트.md"
-    },
-    {
-      "basename": "13강 STL컨테이너",
-      "path": "2OBB/13강 STL컨테이너.md"
-    },
-    {
-      "basename": "12강 입출력",
-      "path": "2OBB/12강 입출력.md"
     }
   ],
   "omittedPaths": [
