@@ -1,0 +1,9 @@
+{
+  "accentColor": "#304ea5",
+  "cssTheme": "Blue Topaz",
+  "theme": "obsidian",
+  "translucency": true,
+  "enabledCssSnippets": [
+    "color-extended"
+  ]
+}

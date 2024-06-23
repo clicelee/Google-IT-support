@@ -1,0 +1,29 @@
+{
+  "frames": [
+    {
+      "url": "https://chat.openai.com",
+      "displayName": "AI",
+      "icon": "brain",
+      "hideOnMobile": true,
+      "addRibbonIcon": true,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": true,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "https://ticktick.com/webapp/#q/today/tasks/65fecb7c821c9103215d44f7",
+      "displayName": "Ticktick",
+      "icon": "check",
+      "hideOnMobile": true,
+      "addRibbonIcon": true,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    }
+  ],
+  "padding": 5
+}
