@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "01원격연결 및 SSH",
+      "path": "Module3 Operating System/Installing an Operating System/01원격연결 및 SSH.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Screenshot 2024-06-23 at 5.14.44 PM",
+      "path": "Module3 Operating System/Installing an Operating System/assets/Screenshot 2024-06-23 at 5.14.44 PM.png"
+    },
+    {
       "basename": "02putting all together-조립하기",
       "path": "Module2 Hardware/Starting It Up/02putting all together-조립하기.md"
     },
@@ -27,18 +39,6 @@
     {
       "basename": "Screenshot 2024-06-23 at 2.13.38 PM",
       "path": "Module2 Hardware/Starting It Up/assets/Screenshot 2024-06-23 at 2.13.38 PM.png"
-    },
-    {
-      "basename": "Screenshot 2024-06-23 at 2.08.28 PM",
-      "path": "Module2 Hardware/Starting It Up/assets/Screenshot 2024-06-23 at 2.08.28 PM.png"
-    },
-    {
-      "basename": "03휴대기기 수리",
-      "path": "Module2 Hardware/Starting It Up/03휴대기기 수리.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     }
   ],
   "omittedPaths": [
