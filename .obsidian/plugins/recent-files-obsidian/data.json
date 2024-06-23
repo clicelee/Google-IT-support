@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "02PuTTY",
+      "path": "Module3 Operating System/Installing an Operating System/02PuTTY.md"
+    },
+    {
+      "basename": "01BIOS",
+      "path": "Module2 Hardware/Starting It Up/01BIOS.md"
+    },
+    {
       "basename": "01원격연결 및 SSH",
       "path": "Module3 Operating System/Installing an Operating System/01원격연결 및 SSH.md"
     },
@@ -17,10 +25,6 @@
       "path": "Module2 Hardware/Starting It Up/02putting all together-조립하기.md"
     },
     {
-      "basename": "01BIOS",
-      "path": "Module2 Hardware/Starting It Up/01BIOS.md"
-    },
-    {
       "basename": "Screenshot 2024-06-23 at 2.10.19 PM",
       "path": "Module2 Hardware/Starting It Up/assets/Screenshot 2024-06-23 at 2.10.19 PM.png"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "Screenshot 2024-06-23 at 2.07.43 PM",
       "path": "Module2 Hardware/Starting It Up/assets/Screenshot 2024-06-23 at 2.07.43 PM.png"
-    },
-    {
-      "basename": "Screenshot 2024-06-23 at 2.13.38 PM",
-      "path": "Module2 Hardware/Starting It Up/assets/Screenshot 2024-06-23 at 2.13.38 PM.png"
     }
   ],
   "omittedPaths": [
