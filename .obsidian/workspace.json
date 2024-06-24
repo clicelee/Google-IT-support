@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module4 Networking/What is the networking/01네트워크 기초.md",
+                "file": "Module4 Networking/What is the networking/03인터넷 언어.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module4 Networking/What is the networking/01네트워크 기초.md",
+                "file": "Module4 Networking/What is the networking/03인터넷 언어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module4 Networking/What is the networking/01네트워크 기초.md",
+                "file": "Module4 Networking/What is the networking/03인터넷 언어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module4 Networking/What is the networking/01네트워크 기초.md"
+                "file": "Module4 Networking/What is the networking/03인터넷 언어.md"
               }
             }
           }
@@ -185,10 +185,14 @@
   },
   "active": "982fc508e62f9624",
   "lastOpenFiles": [
-    "Module4 Networking/What is the networking/02.md",
+    "Module4 Networking/What is the networking/04인터넷.md",
+    "Module4 Networking/What is the networking/03인터넷 언어.md",
+    "Module4 Networking/What is the networking/02네트워킹 하드웨어.md",
+    "Module4 Networking/What is the networking/assets/Screenshot 2024-06-24 at 3.11.18 PM.png",
+    "Module4 Networking/What is the networking/assets",
+    "Module4 Networking/What is the networking/05.md",
+    "Module4 Networking/What is the networking/assets/Screenshot 2024-06-24 at 3.07.40 PM.png",
     "Module4 Networking/What is the networking/01네트워크 기초.md",
-    "Module4 Networking/What is the networking/03.md",
-    "Module4 Networking/What is the networking/04.md",
     "Module3 Operating System/What is an Operating System/03Qwiklabs.md",
     "Module4 Networking/What is the networking",
     "Module4 Networking",
@@ -212,11 +216,9 @@
     "Module3 Operating System/Installing an Operating System/assets/Screenshot 2024-06-23 at 5.49.16 PM.png",
     "Module3 Operating System/Installing an Operating System/03운영체제의 구성요소.md",
     "Module3 Operating System/Installing an Operating System/assets/Screenshot 2024-06-23 at 5.42.34 PM.png",
-    "Module3 Operating System/Installing an Operating System/assets/Screenshot 2024-06-23 at 5.36.09 PM.png",
     "Module2 Hardware/Starting It Up/02putting all together-조립하기.md",
     "Module3 Operating System/Installing an Operating System/02PuTTY.md",
     "Module2 Hardware/Starting It Up/01BIOS.md",
-    "Module3 Operating System/Installing an Operating System/assets/Screenshot 2024-06-23 at 5.31.20 PM.png",
     "Module3 Operating System/Installing an Operating System/01원격연결 및 SSH.md",
     "README.md",
     "Module3 Operating System/Installing an Operating System/assets",
@@ -226,10 +228,7 @@
     "Module2 Hardware/Starting It Up/03휴대기기 수리.md",
     "02종합-모두 하나로모으기",
     "Module2 Hardware/Starting It Up/assets",
-    "Module2 Hardware/Starting It Up",
     "Module2 Hardware/Components/08주변 기기 Peripherals.md",
-    "모듈2 하드웨어/휴대기기 수리.md",
-    "Module2 Hardware/Components/07배터리 및 충전 시스템.md",
-    "Module2 Hardware/Components/06휴대기기.md"
+    "모듈2 하드웨어/휴대기기 수리.md"
   ]
 }

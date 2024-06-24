@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "03인터넷 언어",
+      "path": "Module4 Networking/What is the networking/03인터넷 언어.md"
+    },
+    {
+      "basename": "04인터넷",
+      "path": "Module4 Networking/What is the networking/04인터넷.md"
+    },
+    {
+      "basename": "02네트워킹 하드웨어",
+      "path": "Module4 Networking/What is the networking/02네트워킹 하드웨어.md"
+    },
+    {
+      "basename": "Screenshot 2024-06-24 at 3.07.40 PM",
+      "path": "Module4 Networking/What is the networking/assets/Screenshot 2024-06-24 at 3.07.40 PM.png"
+    },
+    {
       "basename": "01네트워크 기초",
       "path": "Module4 Networking/What is the networking/01네트워크 기초.md"
-    },
-    {
-      "basename": "02",
-      "path": "Module4 Networking/What is the networking/02.md"
-    },
-    {
-      "basename": "03",
-      "path": "Module4 Networking/What is the networking/03.md"
-    },
-    {
-      "basename": "04",
-      "path": "Module4 Networking/What is the networking/04.md"
     },
     {
       "basename": "03Qwiklabs",
@@ -31,14 +35,6 @@
     {
       "basename": "06메모리 관리",
       "path": "Module3 Operating System/Installing an Operating System/06메모리 관리.md"
-    },
-    {
-      "basename": "05프로세스 관리",
-      "path": "Module3 Operating System/Installing an Operating System/05프로세스 관리.md"
-    },
-    {
-      "basename": "08사용자 공간 UserSpace",
-      "path": "Module3 Operating System/Installing an Operating System/08사용자 공간 UserSpace.md"
     }
   ],
   "omittedPaths": [
