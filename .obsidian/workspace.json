@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module3 Operating System/What is an Operating System/03Qwiklabs.md",
+                "file": "Module4 Networking/What is the networking/01네트워크 기초.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module3 Operating System/What is an Operating System/03Qwiklabs.md",
+                "file": "Module4 Networking/What is the networking/01네트워크 기초.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module3 Operating System/What is an Operating System/03Qwiklabs.md",
+                "file": "Module4 Networking/What is the networking/01네트워크 기초.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module3 Operating System/What is an Operating System/03Qwiklabs.md"
+                "file": "Module4 Networking/What is the networking/01네트워크 기초.md"
               }
             }
           }
@@ -185,8 +185,14 @@
   },
   "active": "982fc508e62f9624",
   "lastOpenFiles": [
-    "Module3 Operating System/What is an Operating System/02Chrome OS.md",
+    "Module4 Networking/What is the networking/02.md",
+    "Module4 Networking/What is the networking/01네트워크 기초.md",
+    "Module4 Networking/What is the networking/03.md",
+    "Module4 Networking/What is the networking/04.md",
     "Module3 Operating System/What is an Operating System/03Qwiklabs.md",
+    "Module4 Networking/What is the networking",
+    "Module4 Networking",
+    "Module3 Operating System/What is an Operating System/02Chrome OS.md",
     "Module3 Operating System/What is an Operating System/01가상머신.md",
     "Module3 Operating System/What is an Operating System/assets",
     "Module3 Operating System/Installing an Operating System/06메모리 관리.md",
@@ -221,15 +227,9 @@
     "02종합-모두 하나로모으기",
     "Module2 Hardware/Starting It Up/assets",
     "Module2 Hardware/Starting It Up",
-    "Module2 Hardware",
     "Module2 Hardware/Components/08주변 기기 Peripherals.md",
     "모듈2 하드웨어/휴대기기 수리.md",
     "Module2 Hardware/Components/07배터리 및 충전 시스템.md",
-    "Module2 Hardware/Components/06휴대기기.md",
-    "Module2 Hardware/Components/04스토리지.md",
-    "Module2 Hardware/Components/03마더보드.md",
-    "Module2 Hardware/Components/02RAM.md",
-    "Module2 Hardware/Components/01CPU.md",
-    "Module2 Hardware/Components/assets"
+    "Module2 Hardware/Components/06휴대기기.md"
   ]
 }

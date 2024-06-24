@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "01네트워크 기초",
+      "path": "Module4 Networking/What is the networking/01네트워크 기초.md"
+    },
+    {
+      "basename": "02",
+      "path": "Module4 Networking/What is the networking/02.md"
+    },
+    {
+      "basename": "03",
+      "path": "Module4 Networking/What is the networking/03.md"
+    },
+    {
+      "basename": "04",
+      "path": "Module4 Networking/What is the networking/04.md"
+    },
+    {
       "basename": "03Qwiklabs",
       "path": "Module3 Operating System/What is an Operating System/03Qwiklabs.md"
     },
@@ -23,22 +39,6 @@
     {
       "basename": "08사용자 공간 UserSpace",
       "path": "Module3 Operating System/Installing an Operating System/08사용자 공간 UserSpace.md"
-    },
-    {
-      "basename": "10부팅 프로세스",
-      "path": "Module3 Operating System/Installing an Operating System/10부팅 프로세스.md"
-    },
-    {
-      "basename": "11모바일 운영체제",
-      "path": "Module3 Operating System/Installing an Operating System/11모바일 운영체제.md"
-    },
-    {
-      "basename": "09로그",
-      "path": "Module3 Operating System/Installing an Operating System/09로그.md"
-    },
-    {
-      "basename": "07입출력 관리",
-      "path": "Module3 Operating System/Installing an Operating System/07입출력 관리.md"
     }
   ],
   "omittedPaths": [
