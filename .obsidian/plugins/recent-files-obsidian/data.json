@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "02소프트웨어 유형",
-      "path": "Module5 Software/Intro to Software/02소프트웨어 유형.md"
+      "basename": "02소프트웨어 유형-응용 소프트웨어, 시스템 소프트웨어, 펌웨어",
+      "path": "Module5 Software/Intro to Software/02소프트웨어 유형-응용 소프트웨어, 시스템 소프트웨어, 펌웨어.md"
+    },
+    {
+      "basename": "04컴퓨팅 레시피",
+      "path": "Module5 Software/Intro to Software/04컴퓨팅 레시피.md"
+    },
+    {
+      "basename": "03추상화 복습하기 Revisiting Abstraction",
+      "path": "Module5 Software/Intro to Software/03추상화 복습하기 Revisiting Abstraction.md"
     },
     {
       "basename": "01소프트웨어란",
@@ -31,14 +39,6 @@
     {
       "basename": "01네트워크 기초",
       "path": "Module4 Networking/What is the networking/01네트워크 기초.md"
-    },
-    {
-      "basename": "Screenshot 2024-06-24 at 3.11.18 PM",
-      "path": "Module4 Networking/What is the networking/assets/Screenshot 2024-06-24 at 3.11.18 PM.png"
-    },
-    {
-      "basename": "Screenshot 2024-06-24 at 3.07.40 PM",
-      "path": "Module4 Networking/What is the networking/assets/Screenshot 2024-06-24 at 3.07.40 PM.png"
     }
   ],
   "omittedPaths": [
