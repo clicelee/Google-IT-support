@@ -1,44 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "01TCP IP5계층 네트워크 모델",
+      "path": "02컴퓨터 네트워킹의 모든것/Module1 Networtking/TCP IP5계층 네트워크 모델/01TCP IP5계층 네트워크 모델.md"
+    },
+    {
+      "basename": "02Window, Linux에서 소프트웨어 설치, 업데이트, 제거",
+      "path": "01기초과정/Module5 Software/Managing Software/02Window, Linux에서 소프트웨어 설치, 업데이트, 제거.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "01관리 소프트웨어",
+      "path": "01기초과정/Module5 Software/Managing Software/01관리 소프트웨어.md"
+    },
+    {
       "basename": "02소프트웨어 유형-응용 소프트웨어, 시스템 소프트웨어, 펌웨어",
-      "path": "Module5 Software/Intro to Software/02소프트웨어 유형-응용 소프트웨어, 시스템 소프트웨어, 펌웨어.md"
+      "path": "01기초과정/Module5 Software/Intro to Software/02소프트웨어 유형-응용 소프트웨어, 시스템 소프트웨어, 펌웨어.md"
     },
     {
       "basename": "04컴퓨팅 레시피",
-      "path": "Module5 Software/Intro to Software/04컴퓨팅 레시피.md"
+      "path": "01기초과정/Module5 Software/Intro to Software/04컴퓨팅 레시피.md"
     },
     {
       "basename": "03추상화 복습하기 Revisiting Abstraction",
-      "path": "Module5 Software/Intro to Software/03추상화 복습하기 Revisiting Abstraction.md"
+      "path": "01기초과정/Module5 Software/Intro to Software/03추상화 복습하기 Revisiting Abstraction.md"
     },
     {
       "basename": "01소프트웨어란",
-      "path": "Module5 Software/Intro to Software/01소프트웨어란.md"
-    },
-    {
-      "basename": "06인터넷의 한계",
-      "path": "Module4 Networking/What is the networking/06인터넷의 한계.md"
-    },
-    {
-      "basename": "05인터넷의 역사",
-      "path": "Module4 Networking/What is the networking/05인터넷의 역사.md"
-    },
-    {
-      "basename": "04인터넷",
-      "path": "Module4 Networking/What is the networking/04인터넷.md"
-    },
-    {
-      "basename": "03인터넷 언어-프로토콜(규칙)",
-      "path": "Module4 Networking/What is the networking/03인터넷 언어-프로토콜(규칙).md"
-    },
-    {
-      "basename": "02네트워킹 하드웨어",
-      "path": "Module4 Networking/What is the networking/02네트워킹 하드웨어.md"
-    },
-    {
-      "basename": "01네트워크 기초",
-      "path": "Module4 Networking/What is the networking/01네트워크 기초.md"
+      "path": "01기초과정/Module5 Software/Intro to Software/01소프트웨어란.md"
     }
   ],
   "omittedPaths": [
