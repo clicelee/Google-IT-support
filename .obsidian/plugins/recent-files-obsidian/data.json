@@ -1,10 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "07개인 정보 보호 및 보안",
-      "path": "Module4 Networking/What is the networking/07개인 정보 보호 및 보안.md"
-    },
-    {
       "basename": "06인터넷의 한계",
       "path": "Module4 Networking/What is the networking/06인터넷의 한계.md"
     },
@@ -17,28 +13,32 @@
       "path": "Module4 Networking/What is the networking/04인터넷.md"
     },
     {
-      "basename": "03인터넷 언어",
-      "path": "Module4 Networking/What is the networking/03인터넷 언어.md"
+      "basename": "03인터넷 언어-프로토콜(규칙)",
+      "path": "Module4 Networking/What is the networking/03인터넷 언어-프로토콜(규칙).md"
     },
     {
       "basename": "02네트워킹 하드웨어",
       "path": "Module4 Networking/What is the networking/02네트워킹 하드웨어.md"
     },
     {
-      "basename": "Screenshot 2024-06-24 at 3.07.40 PM",
-      "path": "Module4 Networking/What is the networking/assets/Screenshot 2024-06-24 at 3.07.40 PM.png"
-    },
-    {
       "basename": "01네트워크 기초",
       "path": "Module4 Networking/What is the networking/01네트워크 기초.md"
     },
     {
-      "basename": "03Qwiklabs",
-      "path": "Module3 Operating System/What is an Operating System/03Qwiklabs.md"
+      "basename": "Screenshot 2024-06-24 at 3.11.18 PM",
+      "path": "Module4 Networking/What is the networking/assets/Screenshot 2024-06-24 at 3.11.18 PM.png"
     },
     {
-      "basename": "02Chrome OS",
-      "path": "Module3 Operating System/What is an Operating System/02Chrome OS.md"
+      "basename": "Screenshot 2024-06-24 at 3.07.40 PM",
+      "path": "Module4 Networking/What is the networking/assets/Screenshot 2024-06-24 at 3.07.40 PM.png"
+    },
+    {
+      "basename": "01BIOS",
+      "path": "Module2 Hardware/Starting It Up/01BIOS.md"
+    },
+    {
+      "basename": "07개인 정보 보호 및 보안",
+      "path": "Module4 Networking/What is the networking/07개인 정보 보호 및 보안.md"
     }
   ],
   "omittedPaths": [
