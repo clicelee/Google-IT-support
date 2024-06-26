@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module4 Networking/What is the networking/06인터넷의 한계.md",
+                "file": "Module5 Software/Intro to Software/02소프트웨어 유형.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module4 Networking/What is the networking/06인터넷의 한계.md",
+                "file": "Module5 Software/Intro to Software/02소프트웨어 유형.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module4 Networking/What is the networking/06인터넷의 한계.md",
+                "file": "Module5 Software/Intro to Software/02소프트웨어 유형.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module4 Networking/What is the networking/06인터넷의 한계.md"
+                "file": "Module5 Software/Intro to Software/02소프트웨어 유형.md"
               }
             }
           }
@@ -171,8 +171,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1080bc73bbd5529e",
+  "active": "e886638c9e8d1564",
   "lastOpenFiles": [
+    "Module5 Software/Intro to Software/01소프트웨어란.md",
+    "Module5 Software/Intro to Software/02소프트웨어 유형.md",
+    "Module4 Networking/What is the networking/06인터넷의 한계.md",
+    "Module5 Software/Intro to Software/assets",
+    "Module5 Software/Intro to Software",
+    "Module5 Software",
     "Module4 Networking/What is the networking/05인터넷의 역사.md",
     "Module4 Networking/What is the networking/04인터넷.md",
     "Module4 Networking/What is the networking/03인터넷 언어-프로토콜(규칙).md",
@@ -181,7 +187,6 @@
     "Module4 Networking/What is the networking/assets/Screenshot 2024-06-26 at 12.34.57 PM.png",
     "Module4 Networking/What is the networking/02네트워킹 하드웨어.md",
     "Module4 Networking/What is the networking/01네트워크 기초.md",
-    "Module4 Networking/What is the networking/06인터넷의 한계.md",
     "Module4 Networking/What is the networking/assets/Screenshot 2024-06-24 at 3.11.18 PM.png",
     "Module4 Networking/What is the networking/assets/Screenshot 2024-06-24 at 3.07.40 PM.png",
     "Module2 Hardware/Starting It Up/01BIOS.md",
@@ -211,12 +216,8 @@
     "Module2 Hardware/Starting It Up/02putting all together-조립하기.md",
     "Module3 Operating System/Installing an Operating System/02PuTTY.md",
     "Module3 Operating System/Installing an Operating System/01원격연결 및 SSH.md",
-    "README.md",
     "Module3 Operating System/Installing an Operating System/assets",
     "Module3 Operating System/Installing an Operating System",
-    "Module3 Operating System/What is an Operating System",
-    "Module3 Operating System",
-    "02종합-모두 하나로모으기",
-    "Module2 Hardware/Starting It Up/assets"
+    "Module3 Operating System/What is an Operating System"
   ]
 }

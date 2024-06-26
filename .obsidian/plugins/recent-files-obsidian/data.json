@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "02소프트웨어 유형",
+      "path": "Module5 Software/Intro to Software/02소프트웨어 유형.md"
+    },
+    {
+      "basename": "01소프트웨어란",
+      "path": "Module5 Software/Intro to Software/01소프트웨어란.md"
+    },
+    {
       "basename": "06인터넷의 한계",
       "path": "Module4 Networking/What is the networking/06인터넷의 한계.md"
     },
@@ -31,14 +39,6 @@
     {
       "basename": "Screenshot 2024-06-24 at 3.07.40 PM",
       "path": "Module4 Networking/What is the networking/assets/Screenshot 2024-06-24 at 3.07.40 PM.png"
-    },
-    {
-      "basename": "01BIOS",
-      "path": "Module2 Hardware/Starting It Up/01BIOS.md"
-    },
-    {
-      "basename": "07개인 정보 보호 및 보안",
-      "path": "Module4 Networking/What is the networking/07개인 정보 보호 및 보안.md"
     }
   ],
   "omittedPaths": [
