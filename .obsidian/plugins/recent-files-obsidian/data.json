@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "05인터넷의 역사",
+      "path": "01기초과정/Module4 Networking/What is the networking/05인터넷의 역사.md"
+    },
+    {
+      "basename": "03인터넷 언어-프로토콜(규칙)",
+      "path": "01기초과정/Module4 Networking/What is the networking/03인터넷 언어-프로토콜(규칙).md"
+    },
+    {
+      "basename": "08주변 기기 Peripherals",
+      "path": "01기초과정/Module2 Hardware/Components/08주변 기기 Peripherals.md"
+    },
+    {
       "basename": "01TCP IP5계층 네트워크 모델",
       "path": "02컴퓨터 네트워킹의 모든것/Module1 Networtking/TCP IP5계층 네트워크 모델/01TCP IP5계층 네트워크 모델.md"
     },
     {
       "basename": "02Window, Linux에서 소프트웨어 설치, 업데이트, 제거",
       "path": "01기초과정/Module5 Software/Managing Software/02Window, Linux에서 소프트웨어 설치, 업데이트, 제거.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "01관리 소프트웨어",
@@ -27,10 +39,6 @@
     {
       "basename": "03추상화 복습하기 Revisiting Abstraction",
       "path": "01기초과정/Module5 Software/Intro to Software/03추상화 복습하기 Revisiting Abstraction.md"
-    },
-    {
-      "basename": "01소프트웨어란",
-      "path": "01기초과정/Module5 Software/Intro to Software/01소프트웨어란.md"
     }
   ],
   "omittedPaths": [
