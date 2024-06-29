@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05Security/Module1/악성 소프트웨어/04악성 소프트웨어 2부.md",
+                "file": "05Security/Module1/네트워크 공격/Denial of Service.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05Security/Module1/악성 소프트웨어/04악성 소프트웨어 2부.md",
+                "file": "05Security/Module1/네트워크 공격/Denial of Service.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05Security/Module1/악성 소프트웨어/04악성 소프트웨어 2부.md",
+                "file": "05Security/Module1/네트워크 공격/Denial of Service.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05Security/Module1/악성 소프트웨어/04악성 소프트웨어 2부.md"
+                "file": "05Security/Module1/네트워크 공격/Denial of Service.md"
               }
             }
           }
@@ -160,9 +160,15 @@
   },
   "active": "aa4bd15f698b06b3",
   "lastOpenFiles": [
+    "05Security/Module1/네트워크 공격/네트워크 공격.md",
+    "05Security/Module1/네트워크 공격/Denial of Service.md",
+    "05Security/Module1/기타 공격/02비밀번호 공격.md",
+    "05Security/Module1/기타 공격/01클라이언트 측 공격.md",
+    "05Security/Module1/기타 공격/03사기성 공격.md",
+    "05Security/Module1/기타 공격/03사기성공격.md",
+    "05Security/Module1/악성 소프트웨어/04악성 소프트웨어 2부.md",
     "05Security/Module1/악성 소프트웨어/03악성 소프트웨어 1부.md",
     "05Security/Module1/악성 소프트웨어/02필수보안용어.md",
-    "05Security/Module1/악성 소프트웨어/04악성 소프트웨어 2부.md",
     "05Security/Module1/악성 소프트웨어/assets",
     "05Security/Module1/악성 소프트웨어/01CIA의 3요소.md",
     "README.md",
@@ -199,12 +205,6 @@
     "01기초과정/Module5 Software/Intro to Software/assets/Screenshot 2024-06-26 at 1.10.49 PM.png",
     "01기초과정/Module5 Software/Intro to Software/assets/Screenshot 2024-06-26 at 1.10.43 PM.png",
     "01기초과정/Module5 Software/Intro to Software/assets/Screenshot 2024-06-26 at 1.06.09 PM.png",
-    "01기초과정/Module4 Networking/What is the networking/06인터넷의 한계.md",
-    "01기초과정/Module4 Networking/What is the networking/04인터넷.md",
-    "01기초과정/Module4 Networking/What is the networking/02네트워킹 하드웨어.md",
-    "01기초과정/Module4 Networking/What is the networking/01네트워크 기초.md",
-    "01기초과정/Module2 Hardware/Starting It Up/01BIOS.md",
-    "01기초과정/Module4 Networking/What is the networking/07개인 정보 보호 및 보안.md",
-    "Module4 Networking/What is the networking/05.md"
+    "01기초과정/Module4 Networking/What is the networking/06인터넷의 한계.md"
   ]
 }

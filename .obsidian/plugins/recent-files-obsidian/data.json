@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Denial of Service",
+      "path": "05Security/Module1/네트워크 공격/Denial of Service.md"
+    },
+    {
+      "basename": "네트워크 공격",
+      "path": "05Security/Module1/네트워크 공격/네트워크 공격.md"
+    },
+    {
+      "basename": "02비밀번호 공격",
+      "path": "05Security/Module1/기타 공격/02비밀번호 공격.md"
+    },
+    {
+      "basename": "01클라이언트 측 공격",
+      "path": "05Security/Module1/기타 공격/01클라이언트 측 공격.md"
+    },
+    {
+      "basename": "03사기성 공격",
+      "path": "05Security/Module1/기타 공격/03사기성 공격.md"
+    },
+    {
       "basename": "04악성 소프트웨어 2부",
       "path": "05Security/Module1/악성 소프트웨어/04악성 소프트웨어 2부.md"
     },
@@ -19,26 +39,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "05인터넷의 역사",
-      "path": "01기초과정/Module4 Networking/What is the networking/05인터넷의 역사.md"
-    },
-    {
-      "basename": "03인터넷 언어-프로토콜(규칙)",
-      "path": "01기초과정/Module4 Networking/What is the networking/03인터넷 언어-프로토콜(규칙).md"
-    },
-    {
-      "basename": "08주변 기기 Peripherals",
-      "path": "01기초과정/Module2 Hardware/Components/08주변 기기 Peripherals.md"
-    },
-    {
-      "basename": "01TCP IP5계층 네트워크 모델",
-      "path": "02컴퓨터 네트워킹의 모든것/Module1 Networtking/TCP IP5계층 네트워크 모델/01TCP IP5계층 네트워크 모델.md"
-    },
-    {
-      "basename": "02Window, Linux에서 소프트웨어 설치, 업데이트, 제거",
-      "path": "01기초과정/Module5 Software/Managing Software/02Window, Linux에서 소프트웨어 설치, 업데이트, 제거.md"
     }
   ],
   "omittedPaths": [
