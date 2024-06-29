@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "04악성 소프트웨어 2부",
+      "path": "05Security/Module1/악성 소프트웨어/04악성 소프트웨어 2부.md"
+    },
+    {
+      "basename": "03악성 소프트웨어 1부",
+      "path": "05Security/Module1/악성 소프트웨어/03악성 소프트웨어 1부.md"
+    },
+    {
+      "basename": "02필수보안용어",
+      "path": "05Security/Module1/악성 소프트웨어/02필수보안용어.md"
+    },
+    {
+      "basename": "01CIA의 3요소",
+      "path": "05Security/Module1/악성 소프트웨어/01CIA의 3요소.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
@@ -23,22 +39,6 @@
     {
       "basename": "02Window, Linux에서 소프트웨어 설치, 업데이트, 제거",
       "path": "01기초과정/Module5 Software/Managing Software/02Window, Linux에서 소프트웨어 설치, 업데이트, 제거.md"
-    },
-    {
-      "basename": "01관리 소프트웨어",
-      "path": "01기초과정/Module5 Software/Managing Software/01관리 소프트웨어.md"
-    },
-    {
-      "basename": "02소프트웨어 유형-응용 소프트웨어, 시스템 소프트웨어, 펌웨어",
-      "path": "01기초과정/Module5 Software/Intro to Software/02소프트웨어 유형-응용 소프트웨어, 시스템 소프트웨어, 펌웨어.md"
-    },
-    {
-      "basename": "04컴퓨팅 레시피",
-      "path": "01기초과정/Module5 Software/Intro to Software/04컴퓨팅 레시피.md"
-    },
-    {
-      "basename": "03추상화 복습하기 Revisiting Abstraction",
-      "path": "01기초과정/Module5 Software/Intro to Software/03추상화 복습하기 Revisiting Abstraction.md"
     }
   ],
   "omittedPaths": [

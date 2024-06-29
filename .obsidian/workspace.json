@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "05Security/Module1/악성 소프트웨어/04악성 소프트웨어 2부.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "05Security/Module1/악성 소프트웨어/04악성 소프트웨어 2부.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "05Security/Module1/악성 소프트웨어/04악성 소프트웨어 2부.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "05Security/Module1/악성 소프트웨어/04악성 소프트웨어 2부.md"
               }
             }
           }
@@ -158,8 +158,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1080bc73bbd5529e",
+  "active": "aa4bd15f698b06b3",
   "lastOpenFiles": [
+    "05Security/Module1/악성 소프트웨어/03악성 소프트웨어 1부.md",
+    "05Security/Module1/악성 소프트웨어/02필수보안용어.md",
+    "05Security/Module1/악성 소프트웨어/04악성 소프트웨어 2부.md",
+    "05Security/Module1/악성 소프트웨어/assets",
+    "05Security/Module1/악성 소프트웨어/01CIA의 3요소.md",
+    "README.md",
     "05Security/Module6시스템 강화",
     "05Security/Module5심층 방어",
     "05Security/Module4네트워크보안",
@@ -169,8 +175,6 @@
     "05Security/Module2Pelcgbybt(암호화)/해싱",
     "05Security/Module2Pelcgbybt(암호화)/공개키 또는 비대칭 암호화",
     "05Security/Module2Pelcgbybt(암호화)/대칭 암호화",
-    "05Security/Module2Pelcgbybt(암호화)",
-    "05Security/Module1/기타 공격",
     "01기초과정/Module4 Networking/What is the networking/05인터넷의 역사.md",
     "01기초과정/Module4 Networking/What is the networking/03인터넷 언어-프로토콜(규칙).md",
     "01기초과정/Module2 Hardware/Components/08주변 기기 Peripherals.md",
@@ -183,7 +187,6 @@
     "02컴퓨터 네트워킹의 모든것/이름 없는 보드.md",
     "01기초과정/Module5 Software/Managing Software/02Window, Linux에서 소프트웨어 설치, 업데이트, 제거.md",
     "Module5 Software/Managing Software/03소프트웨어 자동화.md",
-    "README.md",
     "01기초과정/Module5 Software/Managing Software/01관리 소프트웨어.md",
     "01기초과정/Module5 Software/Intro to Software/02소프트웨어 유형-응용 소프트웨어, 시스템 소프트웨어, 펌웨어.md",
     "01기초과정/Module5 Software/Intro to Software/04컴퓨팅 레시피.md",
@@ -202,9 +205,6 @@
     "01기초과정/Module4 Networking/What is the networking/01네트워크 기초.md",
     "01기초과정/Module2 Hardware/Starting It Up/01BIOS.md",
     "01기초과정/Module4 Networking/What is the networking/07개인 정보 보호 및 보안.md",
-    "Module4 Networking/What is the networking/05.md",
-    "01기초과정/Module3 Operating System/What is an Operating System/03Qwiklabs.md",
-    "01기초과정/Module3 Operating System/What is an Operating System/02Chrome OS.md",
-    "01기초과정/Module3 Operating System/What is an Operating System/01가상머신.md"
+    "Module4 Networking/What is the networking/05.md"
   ]
 }
