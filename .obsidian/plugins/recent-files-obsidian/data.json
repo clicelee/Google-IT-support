@@ -1,44 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Denial of Service",
-      "path": "05Security/Module1/네트워크 공격/Denial of Service.md"
+      "basename": "02해싱 알고리즘",
+      "path": "05Security/Module2Pelcgbybt(암호화)/03해싱/02해싱 알고리즘.md"
     },
     {
-      "basename": "네트워크 공격",
-      "path": "05Security/Module1/네트워크 공격/네트워크 공격.md"
+      "basename": "01해싱",
+      "path": "05Security/Module2Pelcgbybt(암호화)/03해싱/01해싱.md"
     },
     {
-      "basename": "02비밀번호 공격",
-      "path": "05Security/Module1/기타 공격/02비밀번호 공격.md"
+      "basename": "02Asymmetric Encryption Algorithms",
+      "path": "05Security/Module2Pelcgbybt(암호화)/02공개키 또는 비대칭 암호화/02Asymmetric Encryption Algorithms.md"
     },
     {
-      "basename": "01클라이언트 측 공격",
-      "path": "05Security/Module1/기타 공격/01클라이언트 측 공격.md"
+      "basename": "01Asymmetric Crytography",
+      "path": "05Security/Module2Pelcgbybt(암호화)/02공개키 또는 비대칭 암호화/01Asymmetric Crytography.md"
     },
     {
-      "basename": "03사기성 공격",
-      "path": "05Security/Module1/기타 공격/03사기성 공격.md"
+      "basename": "05거부",
+      "path": "05Security/Module2Pelcgbybt(암호화)/04암호화 애플리케이션/05거부.md"
     },
     {
-      "basename": "04악성 소프트웨어 2부",
-      "path": "05Security/Module1/악성 소프트웨어/04악성 소프트웨어 2부.md"
+      "basename": "04암호화 하드웨어",
+      "path": "05Security/Module2Pelcgbybt(암호화)/04암호화 애플리케이션/04암호화 하드웨어.md"
     },
     {
-      "basename": "03악성 소프트웨어 1부",
-      "path": "05Security/Module1/악성 소프트웨어/03악성 소프트웨어 1부.md"
+      "basename": "03네트워크 트래픽 보호",
+      "path": "05Security/Module2Pelcgbybt(암호화)/04암호화 애플리케이션/03네트워크 트래픽 보호.md"
     },
     {
-      "basename": "02필수보안용어",
-      "path": "05Security/Module1/악성 소프트웨어/02필수보안용어.md"
+      "basename": "02암화화의 실제 동작",
+      "path": "05Security/Module2Pelcgbybt(암호화)/04암호화 애플리케이션/02암화화의 실제 동작.md"
     },
     {
-      "basename": "01CIA의 3요소",
-      "path": "05Security/Module1/악성 소프트웨어/01CIA의 3요소.md"
+      "basename": "01공개키 인프라",
+      "path": "05Security/Module2Pelcgbybt(암호화)/04암호화 애플리케이션/01공개키 인프라.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "Google Docs 피싱공격",
+      "path": "05Security/Module3AAA보안/02권한부여/Google Docs 피싱공격.md"
     }
   ],
   "omittedPaths": [

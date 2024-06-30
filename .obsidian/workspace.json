@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05Security/Module1/네트워크 공격/Denial of Service.md",
+                "file": "05Security/Module2Pelcgbybt(암호화)/03해싱/02해싱 알고리즘.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05Security/Module1/네트워크 공격/Denial of Service.md",
+                "file": "05Security/Module2Pelcgbybt(암호화)/03해싱/02해싱 알고리즘.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05Security/Module1/네트워크 공격/Denial of Service.md",
+                "file": "05Security/Module2Pelcgbybt(암호화)/03해싱/02해싱 알고리즘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05Security/Module1/네트워크 공격/Denial of Service.md"
+                "file": "05Security/Module2Pelcgbybt(암호화)/03해싱/02해싱 알고리즘.md"
               }
             }
           }
@@ -160,51 +160,51 @@
   },
   "active": "aa4bd15f698b06b3",
   "lastOpenFiles": [
-    "05Security/Module1/네트워크 공격/네트워크 공격.md",
+    "05Security/Module2Pelcgbybt(암호화)/03해싱/01해싱.md",
+    "05Security/Module2Pelcgbybt(암호화)/03해싱/02해싱 알고리즘.md",
+    "05Security/Module2Pelcgbybt(암호화)/02공개키 또는 비대칭 암호화/02Asymmetric Encryption Algorithms.md",
+    "05Security/Module2Pelcgbybt(암호화)/02공개키 또는 비대칭 암호화/01Asymmetric Crytography.md",
+    "05Security/Module2Pelcgbybt(암호화)/04암호화 애플리케이션/05거부.md",
+    "05Security/Module2Pelcgbybt(암호화)/04암호화 애플리케이션/04암호화 하드웨어.md",
+    "05Security/Module2Pelcgbybt(암호화)/04암호화 애플리케이션/03네트워크 트래픽 보호.md",
+    "05Security/Module2Pelcgbybt(암호화)/04암호화 애플리케이션/02암화화의 실제 동작.md",
+    "05Security/Module2Pelcgbybt(암호화)/04암호화 애플리케이션/assets",
+    "05Security/Module2Pelcgbybt(암호화)/04암호화 애플리케이션/01공개키 인프라.md",
+    "05Security/Module2Pelcgbybt(암호화)/03해싱/03해싱 알고리즘 2부.md",
+    "05Security/Module3AAA보안/02권한부여/Google Docs 피싱공격.md",
+    "05Security/Module3AAA보안/02권한부여/01액세스 제어.md",
+    "05Security/Module3AAA보안/01인증/assets",
+    "05Security/Module3AAA보안/02권한부여",
+    "05Security/Module3AAA보안/01인증",
+    "05Security/Module3AAA보안/01인증/07SSO(Single Sign On).md",
+    "05Security/Module3AAA보안/01인증/06TACACS+.md",
+    "05Security/Module2Pelcgbybt(암호화)/01대칭 암호화/03대칭 암호화 알고리즘.md",
+    "05Security/Module2Pelcgbybt(암호화)/01대칭 암호화/02대칭 암호화.md",
+    "05Security/Module2Pelcgbybt(암호화)/대칭 암호화/무제 파일.md",
+    "05Security/Module2Pelcgbybt(암호화)/01대칭 암호화/01암호화.md",
+    "05Security/Module2Pelcgbybt(암호화)/무제 파일.md",
     "05Security/Module1/네트워크 공격/Denial of Service.md",
+    "05Security/Module1/네트워크 공격/네트워크 공격.md",
     "05Security/Module1/기타 공격/02비밀번호 공격.md",
     "05Security/Module1/기타 공격/01클라이언트 측 공격.md",
     "05Security/Module1/기타 공격/03사기성 공격.md",
     "05Security/Module1/기타 공격/03사기성공격.md",
     "05Security/Module1/악성 소프트웨어/04악성 소프트웨어 2부.md",
-    "05Security/Module1/악성 소프트웨어/03악성 소프트웨어 1부.md",
-    "05Security/Module1/악성 소프트웨어/02필수보안용어.md",
     "05Security/Module1/악성 소프트웨어/assets",
-    "05Security/Module1/악성 소프트웨어/01CIA의 3요소.md",
-    "README.md",
     "05Security/Module6시스템 강화",
     "05Security/Module5심층 방어",
     "05Security/Module4네트워크보안",
     "05Security/Module3AAA보안",
-    "05Security/Module2Pelcgbybt(암호화)/암호화 애플리케이션",
-    "05Security/Module2Pelcgbybt(암호화)/untitled folder",
-    "05Security/Module2Pelcgbybt(암호화)/해싱",
-    "05Security/Module2Pelcgbybt(암호화)/공개키 또는 비대칭 암호화",
-    "05Security/Module2Pelcgbybt(암호화)/대칭 암호화",
-    "01기초과정/Module4 Networking/What is the networking/05인터넷의 역사.md",
-    "01기초과정/Module4 Networking/What is the networking/03인터넷 언어-프로토콜(규칙).md",
-    "01기초과정/Module2 Hardware/Components/08주변 기기 Peripherals.md",
-    "02컴퓨터 네트워킹의 모든것/Module1 Networtking/TCP IP5계층 네트워크 모델/01TCP IP5계층 네트워크 모델.md",
+    "05Security/Module2Pelcgbybt(암호화)/04암호화 애플리케이션",
     "02컴퓨터 네트워킹의 모든것/Module1 Networtking/TCP IP5계층 네트워크 모델/asset/Screenshot 2024-06-28 at 1.37.51 AM.png",
     "02컴퓨터 네트워킹의 모든것/Module1 Networtking/TCP IP5계층 네트워크 모델/asset/Screenshot 2024-06-26 at 3.03.24 PM.png",
     "02컴퓨터 네트워킹의 모든것/Module1 Networtking/TCP IP5계층 네트워크 모델/asset/Screenshot 2024-06-26 at 2.53.27 PM.png",
-    "02컴퓨터 네트워킹의 모든것/Module1 Networtking/TCP IP5계층 네트워크 모델/02.md",
-    "02컴퓨터 네트워킹의 모든것/Module1 Networtking/TCP IP5계층 네트워크 모델/01개요.md",
-    "02컴퓨터 네트워킹의 모든것/이름 없는 보드.md",
-    "01기초과정/Module5 Software/Managing Software/02Window, Linux에서 소프트웨어 설치, 업데이트, 제거.md",
-    "Module5 Software/Managing Software/03소프트웨어 자동화.md",
-    "01기초과정/Module5 Software/Managing Software/01관리 소프트웨어.md",
-    "01기초과정/Module5 Software/Intro to Software/02소프트웨어 유형-응용 소프트웨어, 시스템 소프트웨어, 펌웨어.md",
-    "01기초과정/Module5 Software/Intro to Software/04컴퓨팅 레시피.md",
-    "01기초과정/Module5 Software/Intro to Software/03추상화 복습하기 Revisiting Abstraction.md",
-    "01기초과정/Module5 Software/Intro to Software/01소프트웨어란.md",
     "01기초과정/Module5 Software/Intro to Software/assets/Screenshot 2024-06-26 at 1.29.13 PM.png",
     "01기초과정/Module5 Software/Intro to Software/assets/Screenshot 2024-06-26 at 1.29.00 PM.png",
     "01기초과정/Module5 Software/Intro to Software/assets/Screenshot 2024-06-26 at 1.12.11 PM.png",
     "01기초과정/Module5 Software/Intro to Software/assets/Screenshot 2024-06-26 at 1.12.04 PM.png",
     "01기초과정/Module5 Software/Intro to Software/assets/Screenshot 2024-06-26 at 1.10.49 PM.png",
     "01기초과정/Module5 Software/Intro to Software/assets/Screenshot 2024-06-26 at 1.10.43 PM.png",
-    "01기초과정/Module5 Software/Intro to Software/assets/Screenshot 2024-06-26 at 1.06.09 PM.png",
-    "01기초과정/Module4 Networking/What is the networking/06인터넷의 한계.md"
+    "01기초과정/Module5 Software/Intro to Software/assets/Screenshot 2024-06-26 at 1.06.09 PM.png"
   ]
 }
